@@ -1,4 +1,4 @@
-![Image de présentation](UI/images/logo.png?raw=true "Image de présentation")
+![Image de présentation](UI/images/bannière.png?raw=true "Image de présentation")
 
 # Présentation du projet
 
