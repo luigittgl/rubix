@@ -1,8 +1,4 @@
-Bienvenue sur le projet Rubix !
-
-Projet concu par : Luigi Tintinaglia, Lucas Loustalot, Nicolas Calderan, Joris Bely, Sacha Guitteny.
-
-Dans le cadre du concours "Trophées NSI 2022 - Terminales".
+![Image de présentation](UI/images/logo.png?raw=true "Image de présentation")
 
 # Présentation du projet
 
