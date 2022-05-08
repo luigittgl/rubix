@@ -1,5 +1,7 @@
 Bienvenue sur le projet Rubix !
+
 Projet concu par : Luigi Tintinaglia, Lucas Loustalot, Nicolas Calderan, Joris Bely, Sacha Guitteny.
+
 Dans le cadre du concours "Trophées NSI 2022 - Terminales".
 
 # Présentation du projet
@@ -13,7 +15,8 @@ Le projet comporte aussi une dimension artistique : chaque résolution génère 
 # Licence
 
 Le code est placé sous licence GPLv3+.
-Les documents pdf, les images et vidéos, sont placés sous licences CC BY-SA 4.0.
+
+__Les documents pdf, les images et vidéos, sont placés sous licences CC BY-SA 4.0.__
 
 # Librairies requises
 
